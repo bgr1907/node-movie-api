@@ -98,7 +98,7 @@ router.post('/', (req, res, next) => {
   promise.then((data) => {
     res.json(data);
   }).catch((err) => {
-    res.js(err);
+    res.json(err);
   });
 });
 
