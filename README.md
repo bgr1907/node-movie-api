@@ -38,6 +38,6 @@
 
 
 # Demo
-[Live demo on Heroku](https://node-egitimi-movie-api.herokuapp.com/)
+[Live demo on Heroku](https://vast-temple-65892.herokuapp.com/)
 
 enjoy!
